@@ -8,10 +8,7 @@ public class DemoClass1 {
 		System.out.println("UserEnter password as 12124124");
 		System.out.println("User click on Login Btn");
 		System.out.println("user on HomePage");
-<<<<<<< HEAD
-		System.out.println("Changes done by user 2");
-=======
 		System.out.println("Changes Done by User 3");
->>>>>>> 285e03926b050ce466aacbf2babbc2a750eb164b
+		System.out.println("Changes Done by User 2");
 	}
 }
